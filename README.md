@@ -29,7 +29,7 @@
   
   ### Library
   <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="file:///C:/Users/%EB%82%A8%EA%B4%80%ED%98%B8/Downloads/pytorch.svg"/>
   <!--Selenium-->
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
